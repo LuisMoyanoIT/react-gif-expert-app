@@ -13,7 +13,7 @@ const GifExpertApp = () =>
     // const handleAdd = (e) => {
     //     // setCategories([...categories, 'KKK']);
     //     setCategories( cats => [...cats, 'JJJ']);
-    // }
+    // } comment
 
 
     return (<>
